@@ -1,0 +1,8 @@
+<!-- Generated file. Do not edit. -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.add2app">
+  <uses-permission android:name="android.permission.INTERNET"/>
+  <application>
+    <activity android:name="io.flutter.helpers.FlutterMainActivity" />
+  </application>
+</manifest>
